@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @StepFwrd
-- 🌱 I’m currently learning coding, I guess
-- 😄 Pronouns: he/him
+Neatral
+Minecraft mods? Maybe?
